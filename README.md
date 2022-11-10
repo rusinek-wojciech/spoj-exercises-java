@@ -1,1 +1,1 @@
-https://pl.spoj.com/
+Sphere Online Judge PL solutions
